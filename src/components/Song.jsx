@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Song = ({ imageName, title, subTitle }) => {
-    const imagePath = `/images/${imageName}`;
+    const imagePath = `./images/${imageName}`;
 
     return (
         <div className="cursor-pointer hover:bg-neutral-800 songcard rounded-lg p-2 w-[11rem] md:w-1/6 md:flex md:flex-col flex-none">
