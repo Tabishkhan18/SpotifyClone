@@ -1,0 +1,24 @@
+.darkgray{
+  background-color: #121212; 
+}
+
+.lightgray{
+  background-color: #2E2E2E;   
+}
+
+.white-icon{
+  filter: invert(1);
+}
+
+.icon{
+  font-size: 24px;
+}
+.text{
+  font-size: 18px;
+}
+
+.navbar{
+  /* background-color: black; */
+  height: 9rem;
+}
+
