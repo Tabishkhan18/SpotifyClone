@@ -2,7 +2,7 @@ import React from 'react'
 
 
 const Library = ({ imageName, title, subTitle }) => {
-    const imagePath = `./images/${imageName}`;
+    const imagePath = `images/${imageName}`;
     return (
         <button className='cursor-pointer hover:bg-neutral-800 rounded-lg w-full'>
             <div className="librarycard flex my-2">
