@@ -24,7 +24,7 @@ const Footer = () => {
             <footer className='fixed flex flex-row bottom-0 left-0 right-0'>
                 <div className="songdetails bg-black flex items-center w-3/12 py-4 ps-4">
                     <div className="songimg">
-                        <img className='size-14 rounded-md cursor-pointer' src="./images/rockstar.png" alt="" />
+                        <img className='size-14 rounded-md cursor-pointer' src="images/rockstar.png" alt="" />
                     </div>
                     <div className="songdetails ps-4">
                         <h3 className='text-white font-semibold text-sm cursor-pointer'>Tum Hoooo</h3>
