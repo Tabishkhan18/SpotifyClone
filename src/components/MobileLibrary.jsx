@@ -10,7 +10,7 @@ const MobileLibrary = () => {
 
             </ul>
             <ul className="flex mx-4 my-1 gap-2">
-                <MobileLibraryCard title="Mohit Chauhar" imageName="mohit.png" />
+                <MobileLibraryCard title="Mohit Chauhan" imageName="mohit.png" />
                 <MobileLibraryCard title="Atif Aslam" imageName="atif.png" />
             </ul>
             <ul className="flex mx-4 my-1 gap-2">

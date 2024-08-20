@@ -60,7 +60,7 @@ function App() {
                 <LibraryPinned title="Liked Songs" subTitle="Playlist &bull; 216 Songs" imageName="likedsong.png" />
                 <LibraryPinned title="Rockstar" subTitle="Album &bull; A.R. Rahman" imageName="rockstar.png" />
                 <LibraryPinned title="Atif Aslam" subTitle="Album &bull; Atif Aslam" imageName="atif.png" />
-                <LibraryPinned title="Mohit Chauhar" subTitle="Album &bull; Mohit Chauhan" imageName="mohit.png" />
+                <LibraryPinned title="Mohit Chauhan" subTitle="Album &bull; Mohit Chauhan" imageName="mohit.png" />
                 <Library title="Aashiqui 2" subTitle="Album &bull; 9 Songs" imageName="aashiqi2.png" />
                 <Library title="Daily Mix 6" subTitle="Album &bull; 120 Songs" imageName="mix6.png" />
                 <Library title="Beast Mode" subTitle="Album &bull; 45 Songs" imageName="beastmode.png" />
