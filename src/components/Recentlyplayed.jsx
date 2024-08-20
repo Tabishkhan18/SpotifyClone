@@ -60,12 +60,12 @@ const Recentlyplayed = () => {
                     <h5 className='text-neutral-400 font-bold cursor-pointer'>Show all</h5>
                 </div>
                 <div className="flex overflow-x-auto md:overflow-x-hidden md:px-0 px-4">
-                    < SongRound title="Atif Aslam Mix" imageName="Pritam.jpg" />
-                    < SongRound title="Mohit Chauhan Mix" imageName="Arijit.jpg" />
-                    < SongRound title="Romantic Mix" imageName="Arr.jpg" />
-                    < SongRound title="Moody Mix" imageName="Sachin.jpg" />
-                    < SongRound title="Hindi Mix" imageName="Anirudh.jpg" />
-                    < SongRound title="Hip Hop Mix" imageName="Vishal.jpg" />
+                    < SongRound title="Pritam" imageName="Pritam.jpg" />
+                    < SongRound title="Arijit Singh" imageName="Arijit.jpg" />
+                    < SongRound title="A.R.Rahman" imageName="Arr.jpg" />
+                    < SongRound title="Sachin-Jigar" imageName="Sachin.jpg" />
+                    < SongRound title="Anirudh Ravichander" imageName="Anirudh.jpg" />
+                    < SongRound title="Vishal Mishra" imageName="Vishal.jpg" />
                 </div>
             </div>
 
@@ -91,12 +91,12 @@ const Recentlyplayed = () => {
                     <h5 className='text-neutral-400 font-bold cursor-pointer'>Show all</h5>
                 </div>
                 <div className="flex overflow-x-auto md:overflow-x-hidden md:px-0 px-4">
-                    < SongRound title="Atif Aslam Mix" subTitle="A.R. Rahman, Mohit Chauhan and Roop Kum..." imageName="Pritam.jpg" />
-                    < SongRound title="Mohit Chauhan Mix" subTitle="Pritam, Vishal-Shekhar and KK" imageName="Arijit.jpg" />
-                    < SongRound title="Romantic Mix" subTitle="Jal, Mithoon, Mohit Chauhan and more" imageName="Arr.jpg" />
-                    < SongRound title="Moody Mix" subTitle="Sam Smith, Imran Khan, Amrindar Gill and more" imageName="Sachin.jpg" />
-                    < SongRound title="Hindi Mix" subTitle="A.R. Rahman, Mohit Chauhan, Arijit Singh an..." imageName="Anirudh.jpg" />
-                    < SongRound title="Hip Hop Mix" subTitle="Rap Demon, Eminem, Talha Anjum and more" imageName="Vishal.jpg" />
+                < SongRound title="Pritam" imageName="Pritam.jpg" />
+                    < SongRound title="Arijit Singh" imageName="Arijit.jpg" />
+                    < SongRound title="A.R.Rahman" imageName="Arr.jpg" />
+                    < SongRound title="Sachin-Jigar" imageName="Sachin.jpg" />
+                    < SongRound title="Anirudh Ravichander" imageName="Anirudh.jpg" />
+                    < SongRound title="Vishal Mishra" imageName="Vishal.jpg" />
                 </div>
             </div>
 

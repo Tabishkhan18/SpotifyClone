@@ -10,9 +10,9 @@ const MobilePlayer = () => {
         <div>
             <footer className='fixed md:hidden flex flex-row justify-between bottom-16 bg-black left-0 w-full'>
                 {/* Music Player */}
-                <div className="songdetails bg-black flex items-center py-4 ps-4">
+                <div className="songdetails bg-black flex items-center py-3 ps-4">
                     <div className="songimg">
-                        <img className='size-14 rounded-md cursor-pointer' src="images/rockstar.png" alt="" />
+                        <img className='size-12 rounded-md cursor-pointer' src="images/rockstar.png" alt="" />
                     </div>
                     <div className="songdetails ps-4">
                         <h3 className='text-white font-semibold text-sm cursor-pointer'>Tum Ho</h3>
