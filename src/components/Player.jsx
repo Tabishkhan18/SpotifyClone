@@ -15,19 +15,16 @@ import { FaExpandAlt } from "react-icons/fa";
 
 
 
-
-
-
-const Footer = () => {
+const Player = () => {
     return (
         <div>
-            <footer className='fixed flex flex-row bottom-0 left-0 right-0'>
+            <footer className='fixed hidden md:flex flex-row bottom-0 left-0 right-0'>
                 <div className="songdetails bg-black flex items-center w-3/12 py-4 ps-4">
                     <div className="songimg">
                         <img className='size-14 rounded-md cursor-pointer' src="images/rockstar.png" alt="" />
                     </div>
                     <div className="songdetails ps-4">
-                        <h3 className='text-white font-semibold text-sm cursor-pointer'>Tum Hoooo</h3>
+                        <h3 className='text-white font-semibold text-sm cursor-pointer'>Tum Ho</h3>
                         <h3 className='text-neutral-400 text-xs cursor-pointer'>Mohit Chauhan, Suzanne D'Mello</h3>
                     </div>
                     <div className="hearticon ps-5 cursor-pointer">
@@ -73,4 +70,4 @@ const Footer = () => {
     )
 }
 
-export default Footer
+export default Player
