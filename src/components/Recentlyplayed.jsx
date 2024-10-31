@@ -91,7 +91,7 @@ const Recentlyplayed = () => {
                     <h5 className='text-neutral-400 font-bold cursor-pointer'>Show all</h5>
                 </div>
                 <div className="flex overflow-x-auto md:overflow-x-hidden md:px-0 px-4">
-                < SongRound title="Pritam" imageName="Pritam.jpg" />
+                    < SongRound title="Pritam" imageName="Pritam.jpg" />
                     < SongRound title="Arijit Singh" imageName="Arijit.jpg" />
                     < SongRound title="A.R.Rahman" imageName="Arr.jpg" />
                     < SongRound title="Sachin-Jigar" imageName="Sachin.jpg" />
